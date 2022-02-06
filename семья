@@ -1,0 +1,59 @@
+<html>
+    <body>
+        <title>Самойлов и Ко</title>
+        <header>
+            <img src="https://mars.algoritmika.org/uploads/2021/01/logo_0_1611261359.svg" width="90PX">
+            <h7>Photos</h7>
+        </header>
+        <h1>Самойлов и Ко</h1>
+        <main>
+            <img src="https://mars.algoritmika.org/uploads/2021/01/happy-family-2284698_1920%201_0_1611261360.png" width="140px">
+            <img src="https://mars.algoritmika.org/uploads/2021/01/children-817368_1920%201_0_1611261360.png" width="120px">
+            <img src="https://mars.algoritmika.org/uploads/2021/01/house-1158139_1920%201_0_1611261360.png" width="200px">
+            <h2>Мы — семья Самойловых</h2>
+            <img src="https://mars.algoritmika.org/uploads/2021/01/smile_0_1611261360.svg"width="20px">
+        <ul type="cicle">
+            <li> папа Алекс — инженер, архитектор</li>
+            <li> мама Наталья — ландшафтный дизайнер, флорист</li>  
+            <li> дети Джеймс и Алёна — начинающие фотографы</li>
+            <li>пёс Джон — главный в весёлой команде</li>
+        </ul>
+        <p>Любим весёлые праздники для семей</p>
+        </main>
+        <footer>
+        <h8>Эл. почта:</h8>
+        <h4>Телефон</h4>
+        </footer>
+    </body>
+</html>
+body {
+    font-family: sans-serif;
+}header{
+    background-color:rgb(75, 147, 196);
+    margin-top: 10px;
+}
+h1{
+    margin-left: 150px;
+}
+img{
+    padding-right: 25px;
+}
+h2{
+  color: red;  
+}
+ul{
+    list-style:url("https://mars.algoritmika.org/uploads/2021/01/Arrow%201_0_1611261359.svg")
+}
+p{
+    border-top:3px solid black;
+    border-bottom:3px solid black;
+    padding: 30px 30px 30px 100px;
+    font-family: Montserrat
+
+}
+h7{
+    background-color: rgb(238, 117, 30);
+}
+footer{
+    background-color: rgb(75, 147, 196);
+}
